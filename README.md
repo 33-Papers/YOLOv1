@@ -1,4 +1,4 @@
-# GloVe-Global-Vectors-for-Word-Representation
-Code replicating the paper "GloVe: Global Vectors for Word Representation"
+# YOLOv1
+Code replicating the paper "YOLO v1"
 
 ## Coming Soon
